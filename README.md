@@ -11,3 +11,5 @@
 - Dərsdə müzakirə etdiyimiz mövzuları araşdırın.
 
 *Uğurlar.*
+
+...Nostalji...
